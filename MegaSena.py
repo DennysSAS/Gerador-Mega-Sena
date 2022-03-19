@@ -1,4 +1,5 @@
-import random 
+#!/usr/bin/env python3
+import random
 
 jogos = int(input("Numero de jogos: "))
 
